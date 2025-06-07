@@ -20,7 +20,7 @@ export const AboutSection = () => {
 
             <p className="text-muted-foreground">
               Ich hab unzählige Tools getestet, Projektideen umgesetzt, Konzepte verworfen, neu gedacht.
-              Das Ziel: Performante, stilvolle und klare Webanwendungen, die nicht nur Code sind – sondern ein Erlebnis.
+              Das Ziel: Performante, stilvolle und klare Webanwendungen.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
