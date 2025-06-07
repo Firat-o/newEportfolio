@@ -13,7 +13,7 @@ export const DevSection = () => {
             Firat
           </span>
           <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-3">
-            O.
+             O.
           </span>
         </h1>
 
